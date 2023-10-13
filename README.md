@@ -1,3 +1,8 @@
 # Parallax
 Deployment by ZeeshanCodez 
-website - 
+
+
+
+
+
+Website - https://zeeshancodez.github.io/Parallax/
